@@ -1,0 +1,11 @@
+{
+    "name":        "meanbee/autocategories",
+    "description": "Meanbee Magento Autocategories",
+    "type":        "magento-module",
+    "license":     "MIT",
+    "authors": [
+        {
+            "name":  "Meanbee"
+        }
+    ]
+}
